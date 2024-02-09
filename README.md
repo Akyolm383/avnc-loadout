@@ -14,7 +14,7 @@
 
 ## Dependencies
 - [qb-core](https://github.com/qbcore-framework/qb-core)
-- [ox_lib](https://github.com/overextended/ox_lib/releases/latest/download/ox_lib.zip)
+- [ox_lib](https://github.com/overextended/ox_lib/releases/latest/download/ox_lib.zip) (optional)
 
 ### Installation
 - Drag and drop and edit shared/config.lua
